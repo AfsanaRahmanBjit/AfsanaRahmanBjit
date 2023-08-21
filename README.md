@@ -1,6 +1,6 @@
 ![MasterHead](https://subzdesigns.com/wp-content/uploads/2016/10/web-design-and-web-development.jpg)
 <h1 align="center">Hi 👋, I'm AFSANA RAHMAN PRIYA</h1>
-<h3 align="center">Trainne Software Engineer from Bangladesh</h3>
+<h3 align="center">Trainne Software Engineer @BJIT Academy | MERN Trainne</h3>
 <p>I am a fresh graduate student. I have completed my B.Sc in CSE from brac university. Now, I am a trainne software engineer of MERN. 
 </p>
 
