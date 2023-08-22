@@ -1,10 +1,34 @@
 ![MasterHead](https://subzdesigns.com/wp-content/uploads/2016/10/web-design-and-web-development.jpg)
 <h1 align="center">Hi 👋, I'm AFSANA RAHMAN PRIYA</h1>
-<h3 align="center">Trainne Software Engineer @BJIT Academy | MERN Trainne</h3>
-<p>I am a fresh graduate student. I have completed my B.Sc in CSE from brac university. Now, I am a trainne software engineer of MERN. Currently, I am learning full-stack MERN Development @BJIT Academy.
-</p>
-
+<h3>Trainne Software Engineer @BJIT Academy | MERN Trainne</h3>
+<div>
+<p>I am a fresh graduate student. I have completed my B.Sc in CSE from BRAC University. Now, I am a trainee software engineer at MERN. Currently, I am learning full-stack MERN Development at @BJIT Academy.</p>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe_w200.webp">
+</div>
+<hr>
+<h3>🧠What I am currently learning</h3>
+<p>As I am a MERN trainee at  @BJIT Academy, currently I am learning:</p>
+<ul>
+<li>MongoDB</li>
+<li>Node.js</li>
+<li>Express.js</li>
+<li>JavaScript</li>
+</ul>
+
+<hr>
+<h3>💬 Ask me about </h3>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Java</li>
+<li>Python</li>
+<li>C</li>
+<li>MySQL</li>
+
+</ul>
+<hr>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afsanarahmanbjit&label=Profile%20views&color=0e75b6&style=flat" alt="afsanarahmanbjit" /> </p>
@@ -12,9 +36,6 @@
 <p align="left"> <a href="https://twitter.com/afsana_ra" target="blank"><img src="https://img.shields.io/twitter/follow/afsana_ra?logo=twitter&style=for-the-badge" alt="afsana_ra" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, MongoDB, Node.js**
-
-- 💬 Ask me about **Java, Python, HTML, CSS, JavaScript**
-
 - 📫 How to reach me **afsana.rahman@bjitacademy.com**
 
 - ⚡ Fun fact **I think I am funny**
